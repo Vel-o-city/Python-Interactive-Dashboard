@@ -1,0 +1,101 @@
+Date,Transaction Type,Amount,Category
+09/04/23,deposit,332.38,Groceries
+04/06/23,deposit,269.24,Loans
+28/05/23,withdrawal,-567.55,Groceries
+07/02/23,withdrawal,-884.91,Loans
+14/06/23,deposit,613.09,Travel
+12/04/23,withdrawal,-508.95,Groceries
+18/06/23,withdrawal,-632.54,Appliances
+02/07/23,deposit,59.99,Appliances
+28/04/23,deposit,872.8,Groceries
+27/02/23,withdrawal,-339.4,Other
+07/02/23,withdrawal,-922,Travel
+07/06/23,deposit,965.01,Entertainment
+25/02/23,deposit,623,Utilities
+20/06/23,withdrawal,-518.62,Loans
+18/06/23,withdrawal,-191,Travel
+17/04/23,withdrawal,-614.76,Credit Cards
+12/04/23,deposit,203.49,Utilities
+15/05/23,withdrawal,-25.35,Groceries
+20/03/23,deposit,537.55,Travel
+22/02/23,deposit,7.25,Entertainment
+22/02/23,withdrawal,-903.83,Utilities
+02/01/23,withdrawal,-216.4,Loans
+18/04/23,deposit,986.92,Credit Cards
+03/02/23,withdrawal,-813.97,Other
+12/04/23,deposit,628.8,Utilities
+16/01/23,deposit,705.81,Loans
+14/01/23,deposit,713.04,Other
+10/06/23,withdrawal,-87.72,Loans
+03/02/23,withdrawal,-346.74,Entertainment
+27/01/23,withdrawal,-886.46,Groceries
+21/07/23,deposit,444.98,Utilities
+01/02/23,deposit,593.05,Appliances
+20/07/23,deposit,151.04,Entertainment
+06/07/23,deposit,53.38,Travel
+23/01/23,deposit,112.25,Other
+03/05/23,deposit,766.9,Entertainment
+01/05/23,deposit,347.91,Entertainment
+18/07/23,deposit,492.74,Groceries
+11/06/23,deposit,120.72,Other
+16/01/23,withdrawal,-841.31,Restaurant
+28/04/23,withdrawal,-174.23,Entertainment
+04/01/23,deposit,778.93,Credit Cards
+09/05/23,deposit,984.93,Travel
+03/05/23,withdrawal,-231.09,Other
+19/05/23,withdrawal,-770.55,Loans
+14/06/23,withdrawal,-526.2,Travel
+16/01/23,withdrawal,-457.86,Other
+19/01/23,deposit,526.03,Loans
+27/03/23,withdrawal,-309.75,Groceries
+21/02/23,withdrawal,-408.5,Other
+20/05/23,deposit,990.15,Appliances
+08/03/23,deposit,390.34,Restaurant
+04/02/23,withdrawal,-228.81,Loans
+20/01/23,deposit,196.75,Loans
+21/06/23,withdrawal,-509.37,Credit Cards
+11/01/23,withdrawal,-906.95,Appliances
+11/04/23,withdrawal,-363.17,Loans
+15/03/23,withdrawal,-596.97,Groceries
+02/03/23,deposit,373.96,Restaurant
+23/03/23,deposit,742.78,Utilities
+23/02/23,withdrawal,-249.49,Other
+18/03/23,deposit,217.31,Utilities
+23/04/23,withdrawal,-622.37,Travel
+20/05/23,deposit,472.83,Restaurant
+07/06/23,deposit,421.62,Credit Cards
+11/07/23,withdrawal,-928.43,Restaurant
+16/06/23,withdrawal,-862.79,Restaurant
+22/03/23,withdrawal,-235.07,Appliances
+09/02/23,deposit,878.15,Other
+09/02/23,withdrawal,-730.74,Other
+12/02/23,withdrawal,-913.27,Groceries
+24/02/23,deposit,742.65,Entertainment
+21/04/23,deposit,289.65,Credit Cards
+18/05/23,deposit,793.92,Loans
+23/05/23,deposit,405.97,Groceries
+26/03/23,withdrawal,-149.49,Other
+09/03/23,withdrawal,-825.75,Groceries
+25/04/23,withdrawal,-536.59,Appliances
+13/01/23,withdrawal,-68.69,Credit Cards
+04/04/23,deposit,661.9,Travel
+15/02/23,withdrawal,-416.17,Groceries
+13/02/23,deposit,144.92,Loans
+21/06/23,withdrawal,-325.98,Restaurant
+27/01/23,deposit,970.62,Restaurant
+08/07/23,withdrawal,-953.21,Other
+14/03/23,withdrawal,-309.99,Entertainment
+01/03/23,withdrawal,-227.83,Groceries
+08/06/23,deposit,894.67,Appliances
+17/06/23,withdrawal,-582.71,Credit Cards
+20/02/23,withdrawal,-777.42,Restaurant
+02/07/23,withdrawal,-305.4,Other
+05/01/23,withdrawal,-709.97,Entertainment
+03/02/23,withdrawal,-935.66,Loans
+09/05/23,deposit,925.79,Credit Cards
+21/03/23,deposit,255.15,Restaurant
+12/01/23,withdrawal,-23.44,Credit Cards
+27/06/23,deposit,155.68,Entertainment
+27/03/23,deposit,985.8,Entertainment
+09/02/23,withdrawal,-378.52,Credit Cards
+18/02/23,deposit,805.76,Restaurant
