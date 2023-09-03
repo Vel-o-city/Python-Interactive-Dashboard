@@ -1,0 +1,4 @@
+pandas>=2.0.3
+panel>=1.2.1
+hvplot>=0.8.4
+holoviews>=1.17.0
